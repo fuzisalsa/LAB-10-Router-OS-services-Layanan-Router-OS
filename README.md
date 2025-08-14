@@ -5,7 +5,7 @@ TANGGAL 14 AGUSTUS 2025
 Service pada mikrotik memudahkan user dalam mengakses dan me-manage router,    
 Secara default service ini akan dijalankan terus menerus oleh RB Mikrotik.   
 
-![p]()
+![p](aa.PNG)
 
 # berikut penjelasan tentang fungsi masing masing service 
 API Akses programatik untuk konfigurasi dan monitoring router menggunakan aplikasi atau script TCP 8728   
